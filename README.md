@@ -136,6 +136,7 @@ npm start
 - 潘铮
 - 高明亮
 - 于灏
+
 ## 开发路线图
 
 - [ ] 基础任务CRUD功能
@@ -152,8 +153,6 @@ npm start
 
 ## 联系方式
 
-如有问题或建议，请通过以下方式联系：
+如有问题或建议，欢迎提交issue
 
-- 提交 [Issue](https://github.com/your-username/smart-todo-app/issues)
-- 发送邮件至：your-
----有帮助，请给我们一个Star！
+⭐️ 如果这个项目对你有帮助，请给我们一个Star！
