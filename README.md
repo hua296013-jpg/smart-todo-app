@@ -1,6 +1,6 @@
 # 智能待办事项管理系统
 
-> **GitHub Description**: 🚀 一个功能完善的Web待办事项管理系统，支持任务分类、优先级、截止提醒和团队协作 | A feature-rich web-based todo management system with task categorization, priorities, deadlines and team collaboration
+> **Description**: 🚀 一个功能完善的Web待办事项管理系统，支持任务分类、优先级、截止提醒和团队协作。
 
 ## 项目简介
 
@@ -38,7 +38,7 @@
 ## 项目结构
 
 ```
-todo-manager/
+smart-todo-app/
 ├── frontend/           # 前端代码
 │   ├── src/
 │   ├── public/
@@ -133,10 +133,9 @@ npm start
 
 ## 团队成员
 
-- [@your-name](https://github.com/your-name) - 项目负责人
-- [@teammate1](https://github.com/teammate1) - 前端开发
-- [@teammate2](https://github.com/teammate2) - 后端开发
-
+- 潘铮
+- 高明亮
+- 于灏
 ## 开发路线图
 
 - [ ] 基础任务CRUD功能
@@ -156,8 +155,5 @@ npm start
 如有问题或建议，请通过以下方式联系：
 
 - 提交 [Issue](https://github.com/your-username/smart-todo-app/issues)
-- 发送邮件至：your-email@example.com
-
----
-
-⭐️ 如果这个项目对你有帮助，请给我们一个Star！
+- 发送邮件至：your-
+---有帮助，请给我们一个Star！
