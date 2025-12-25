@@ -20,7 +20,7 @@
 
 ### 前端
 - React.js
-- Tailwind CSS / Bootstrap
+- Tailwind CSS
 - Axios
 
 ### 后端
