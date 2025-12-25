@@ -65,7 +65,7 @@ smart-todo-app/
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/your-username/smart-todo-app.git
+git clone https://github.com/hua296013-jpg/smart-todo-app.git
 cd smart-todo-app
 ```
 
